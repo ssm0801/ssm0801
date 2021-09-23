@@ -12,8 +12,7 @@
 <br> <br>
 
 🎓 I’m currently a pursuing my Bachelors in Information Technology and have a strong interest in SD and Devops 💙 <br />
-✨ I'm passionate about DSA, problem solving and tools like Docker🐋, Kubernetes🎡, and learning new things!
-
+✨ I'm passionate about DSA, problem solving !!
 ## 🚀 Technologies 
 
 ### Languages⚡
