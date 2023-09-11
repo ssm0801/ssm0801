@@ -25,8 +25,8 @@
 
  ## 👨🏻‍💻 About Me
  
-  - 💻 I’m currently a pursuing my Bachelors in Information Technology and have a strong interest in **SD and Devops** 💙
-  - 🌱 I’m currently learning **DSA & ML**
+  - 💻 Working as Specialist Programmer in Infosys 💙
+  - 🌱 Have good knowledge in **Java Full stack, MEAN and Devops** 
   - 👯 I’m looking to collaborate on **Open source projects**
   -  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/deephunt3r)
 
