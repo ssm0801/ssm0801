@@ -19,7 +19,7 @@
 </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Java+Developer;I'm+passionate+about+DSA;I'm+passionate+about+DevOps+and+Cloud;&width=470&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full+Stack+Developer;I'm+passionate+about+DevOps+and+Cloud;&width=470&height=45">
   </p>
 
 
