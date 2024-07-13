@@ -26,7 +26,7 @@
  ## 👨🏻‍💻 About Me
  
   - 💻 Working as Specialist Programmer in Infosys 💙
-  - 🌱 Have good knowledge in **Java Full stack, MEAN and Devops** 
+  - 🌱 Have good knowledge in **MERN, Java Full stack and Devops** 
   - 👯 I’m looking to collaborate on **Open source projects**
   -  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/deephunt3r)
 
