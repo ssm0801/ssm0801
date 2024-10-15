@@ -33,13 +33,13 @@
 ## 🚀 Technologies 
 
 ### Languages⚡
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN-AAD41B?style=for-the-badge&logo=javascript&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Cloud ☁
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 ### Databases ✔
-<img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white">  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white">  
 
 <p align="center">
    <img src="https://gpvc.arturio.dev/ssm0801" alt="profile views"> |  
