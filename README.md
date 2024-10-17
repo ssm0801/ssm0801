@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="[https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-358293?style=for-the-badge&logo=mysql&logoColor=orange)">
 
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ssm0801?label=Followers&style=social"> | 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ssm0801?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/ssm0801?label=Stars" alt="Total Stars">
 </p>
 
