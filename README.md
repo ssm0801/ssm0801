@@ -25,7 +25,7 @@
 
  ## 👨🏻‍💻 About Me
  
-  - 💻 Working as Specialist Programmer in Infosy
+  - 💻 Working as Specialist Programmer in Infosys
   - 🌱 Have good knowledge in **MERN, NextJS, Python, AWS, DevOps, DSA (Java)** 
   - 👯 I’m looking to collaborate on **Open source projects**
 
